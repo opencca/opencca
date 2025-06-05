@@ -20,7 +20,7 @@ We demonstrate its effectiveness with typical life-cycle measurements and case-s
 ```
 
 ### Repositories
-The [OpenCCA Github Organization](https://github.com/opencca) hosts all of your source repositories.
+The [OpenCCA Github Organization](https://github.com/opencca) hosts all of our source repositories.
 
 **Setup and Build**:
 | Repository                                                            | Description                                  |
