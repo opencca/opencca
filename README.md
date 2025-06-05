@@ -37,7 +37,7 @@ The [OpenCCA Github Organization](https://github.com/opencca) hosts all of your 
 |[arm-trusted-firmware](https://github.com/opencca/arm-trusted-firmware)| Arm TF-A                                     |
 |[tf-rmm](https://github.com/opencca/tf-rmm)                            | Realm Management Monitor (TF-RMM)            |
 |[kvmtool](https://github.com/opencca/kvmtool)                          | Kvmtool VMM                                  |
-|[linux](https://github.com/opencca/kvmtool)                            | CCA Enlightened Host/Guest Kernels           |
+|[linux](https://github.com/opencca/linux)                              | CCA Enlightened Host/Guest Kernels           |
 |[u-boot](https://github.com/opencca/u-boot)                            | Second Stage Loader UBoot                    |
 
 
