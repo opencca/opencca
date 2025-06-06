@@ -2,6 +2,7 @@
 >
 > OpenCCA: An Open Framework to Enable Arm CCA Research  
 > (SysTEX '25)  
+> https://opencca.github.io/
 
 ### Overview
 Confidential computing has gained traction across major architectures with Intel TDX, AMD SEV-SNP, and Arm CCA. Unlike TDX and SEV-SNP, a key challenge in researching Arm CCA is the absence of hardware support, forcing researchers to develop ad-hoc performance prototypes on non-CCA Arm boards. This approach leads to duplicated efforts, inconsistent performance comparisons, and high barriers to entry. 
