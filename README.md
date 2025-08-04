@@ -21,8 +21,6 @@ We demonstrate its effectiveness with typical life-cycle measurements and case-s
 ```
 
 ### Repositories
-> ⚠️ **Open sourcing our artifacts is currently work in progress**
-
 The [OpenCCA Github Organization](https://github.com/opencca) hosts all of our source repositories.
 
 
@@ -47,7 +45,5 @@ The [OpenCCA Github Organization](https://github.com/opencca) hosts all of our s
 
 
 ### Getting Started
-
-This project is currently in early development. Documentation and build instructions are evolving rapidly. Please be patient and check back regularly for updates.
 
 For initial setup and build instructions, please refer to the [opencca-build](https://github.com/opencca/opencca-build) repository README.
