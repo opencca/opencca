@@ -4,7 +4,7 @@
 > (SysTEX '25)  
 > https://opencca.github.io/
 
-<a href="https://opencca.github.io"><img width="872"  alt="image" src="https://github.com/user-attachments/assets/5708ddef-6dd4-4aa5-ae89-f15605b3796f" /></a>
+<a href="https://opencca.github.io"><img width="872"  alt="image" src="https://github.com/user-attachments/assets/42241c6f-ed61-4010-8320-b9588b25ad39" /></a>
 
 
 ### Overview
